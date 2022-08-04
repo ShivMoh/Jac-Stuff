@@ -1,0 +1,17 @@
+git init - initalizes things.
+git add __filename or . - to select all files in directory
+rm -rf .git - I think this removes all files from the git thing
+git commit - basically gives id thing to thing
+git branch - shows branches
+git checkout - changes between branches
+git checkout -b __filename - changes to a newly created branch
+git stash -u - saves files without commiting them.
+git stash pop - adds changes to current directory?
+git merge - combines the branches basically
+git merge feature --squash -squashes commmits?
+git clone - clones stuff.
+git reset
+git reset --hard
+git push origin main
+touch - creates files
+rm - removes file
